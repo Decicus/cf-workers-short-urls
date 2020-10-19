@@ -1,0 +1,19 @@
+{
+  "name": "cf-workers-short-urls",
+  "version": "1.0.0",
+  "description": "Cloudflare Worker for a simple URL redirecting using Workers KV",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Decicus/cf-workers-short-urls.git"
+  },
+  "author": "Alex Thomassen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Decicus/cf-workers-short-urls/issues"
+  },
+  "homepage": "https://github.com/Decicus/cf-workers-short-urls#readme"
+}

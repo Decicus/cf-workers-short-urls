@@ -1,0 +1,8 @@
+name = "cf-workers-short-urls"
+type = "javascript"
+account_id = ""
+workers_dev = true
+kv_namespaces = [
+    { binding = "URLS_KV", id = "", preview_id = "" }
+]
+vars = { FALLBACK_URL = "https://example.com/" }
